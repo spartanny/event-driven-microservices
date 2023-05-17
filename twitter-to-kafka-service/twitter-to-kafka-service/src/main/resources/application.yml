@@ -4,3 +4,9 @@ twitter-to-kafka-microservice:
     - Kafka
     - Microservice
     - Demo
+  sample-message: hello tq
+
+  enable-mock-tweets: true
+  mock-min-tweet-length: 5
+  mock-max-tweet-length: 15
+  mock-sleep-ms: 1000
