@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Project | Microservices demo ###
+*logs/**
+
